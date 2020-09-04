@@ -1,4 +1,4 @@
-FROM FROM gcr.io/spark-operator/spark:v3.0.0
+FROM gcr.io/spark-operator/spark:v3.0.0
 LABEL maintainer "NVIDIA CORPORATION <cudatools@nvidia.com>"
 
 USER root
